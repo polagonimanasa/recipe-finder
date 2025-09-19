@@ -49,5 +49,5 @@ npm run build
 ![App Screenshot](./Screenshot.png)
 
 ## 🎥 Demo Video
-👉 [Watch Demo](https://drive.google.com/file/d/1glFHN7L7dITfzYRj55w7MS-n1k2kKBrj/view?usp=sharing)
+👉 [Watch Demo Video](https://drive.google.com/file/d/1glFHN7L7dITfzYRj55w7MS-n1k2kKBrj/view?usp=sharing)
 
