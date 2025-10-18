@@ -7,6 +7,11 @@ You can search by **recipe name** or **ingredient**, and it will display recipe 
 
 ---
 
+🚀 Live Demo
+
+👉 [Click here to view the live app](https://polagonimanasa.github.io/recipe-finder/)
+
+
 ## 🚀 Features
 - Search recipes by **name** (e.g., `chicken`)  
 - Search recipes by **ingredient** (e.g., `potato`)  
@@ -30,7 +35,7 @@ You can search by **recipe name** or **ingredient**, and it will display recipe 
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/recipe-finder.git
+git clone https://github.com/polagonimanasa/recipe-finder.git
 cd recipe-finder
 
 Install dependencies:
@@ -45,9 +50,8 @@ Build for production:
 '''bash
 npm run build
 
-## 📸 Screenshot
-![App Screenshot](./Screenshot.png)
+## 📷 Preview
 
-## 🎥 Demo Video
-👉 [Watch Demo Video](https://drive.google.com/file/d/1glFHN7L7dITfzYRj55w7MS-n1k2kKBrj/view?usp=sharing)
+![App Screenshot](public/Screenshot.png)
+
 
